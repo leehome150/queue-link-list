@@ -1,0 +1,1 @@
+{"version":3,"sources":["duilei.css"],"names":[],"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA","file":"duilei.f4de13a3.css","sourceRoot":"..\\src","sourcesContent":["#screen {\r\n  width: 200px;\r\n  height: 200px;\r\n  border: 1px solid red;\r\n}\r\n"]}
